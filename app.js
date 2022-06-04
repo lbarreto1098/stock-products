@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(4000, () => {
-    console.log('Escuchando en el puerto 4000 corectamente')
+    console.log('Escuchando en el puerto 4000')
 })

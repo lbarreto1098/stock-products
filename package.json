@@ -6,10 +6,11 @@
   "author": "Luis Barreto",
   "license": "MIT",
   "private": false,
-  "scripts":{
+  "scripts": {
     "dev": "nodemon app.js"
   },
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1"
   },
   "devDependencies": {
